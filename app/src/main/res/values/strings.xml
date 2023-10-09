@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileMP2</string>
+    <string name="burger_n_friends"><![CDATA[BURGER \n& FRIENDS]]></string>
+    <string name="home">Home</string>
+    <string name="home_icon">Home icon</string>
+    <string name="orders">Orders</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+</resources>
